@@ -5,14 +5,12 @@
 :root {
     --grey-dark: #14213d;
     --grey-light: #415a77; 
-
     --blue-light: #99c1de;
 }
 
 .header {
     background-color: var(--grey-dark);
-    color: var(--grey-dark);
-    
+    color: var(--grey-dark);   
 }
 
 .header h1 {
@@ -33,7 +31,6 @@
     font-size: 15px;
     float: right;
 }
-
 
 .header div ul {
     list-style-type: none;
