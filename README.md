@@ -9,5 +9,5 @@ How do i even capture my whole website page ? I tried installing screen capture 
 
 there is so much to take on-board in so little time ! 
 
-Also what is the correct indentation of html tags - I get the gist of it but when I am getting deeper into them I am unsure as to which stay at the same level of indent so could you please give me a page to follow .. thanks.
+Also what is the correct indentation of html tags - I get the gist of it but when I am getting deeper into them I am unsure as to which stay at the same level of indent so could you please give me a page to follow to really get to grips with the proper way - in VS  .. thanks.
 
